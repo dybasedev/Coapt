@@ -1,0 +1,16 @@
+{
+    "name": "dybasedev/coapt",
+    "description": "Simple template engine",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chongyi",
+            "email": "xpz3847878@163.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
